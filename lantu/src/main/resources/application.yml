@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://rm-2ze35k2nl49k42mg5do.mysql.rds.aliyuncs.com:3306/test?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: timor
+    password: Aini1314
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  application:
+    name: lantu
+server:
+  port: 18080
